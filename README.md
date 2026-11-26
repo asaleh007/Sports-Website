@@ -4,7 +4,7 @@
 
 A front-end project for Al Ahly supporters. Start with the club news, meet the players, then explore the fixtures and the Cairo Stadium section.
 
-## The kit room
+## The kits room
 
 Three shirts from the website’s shop. Select one for a closer look.
 
